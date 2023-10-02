@@ -1,3 +1,3 @@
 # Analog-Clock
-Project | Analog Clack
+Project | Analog Clock
 Webiste: https://bhavdeepsinghnijhawan.github.io/Analog-Clock/
