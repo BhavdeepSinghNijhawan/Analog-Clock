@@ -16,7 +16,7 @@ This is a analog clock application built using HTML, CSS, and JavaScript. It dis
 
 ## Screenshots
 
-![Screenshot](/screenshots/screenshot.png)
+![image](https://github.com/BhavdeepSinghNijhawan/Analog-Clock/assets/143419096/85e9b14c-93da-4467-8dca-7f23d4deeb0a)
 
 ## Contributors
 
