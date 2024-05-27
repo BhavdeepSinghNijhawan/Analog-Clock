@@ -1,3 +1,5 @@
+//Author: Bhavdeep Singh Nijhawan
+
 setInterval(() => {
     d = new Date();
     htime = d.getHours();
