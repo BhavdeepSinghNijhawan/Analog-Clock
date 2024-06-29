@@ -1,12 +1,14 @@
 <h1 align="center">ANALOG CLOCK</h1>
 
+<div align="center">
+  <img src="https://github.com/BhavdeepSinghNijhawan/Analog-Clock/assets/143419096/91d42884-5c5e-46c1-a38c-7e83568811bf" alt="Image">
+</div>
+
 This is an analog clock application built using HTML, CSS, and JavaScript. It displays the current time in a classic analog clock format.
 
-## ANALOG CLOCK PREVIEW
+## LIVE URL
 
-<div align="center">
-  <img src="https://github.com/BhavdeepSinghNijhawan/Analog-Clock/assets/143419096/8d189a7b-5340-4d73-9629-3c923fb407a9" alt="Image">
-</div>
+https://bhavdeepsinghnijhawan.github.io/Analog-Clock/
 
 ## FEATURES
 
@@ -19,10 +21,6 @@ This is an analog clock application built using HTML, CSS, and JavaScript. It di
 - **HTML:** HTML is used for structuring the clock interface and elements.
 - **CSS:** Cascading Style Sheets (CSS) are used for styling the clock elements, including the clock hands and background.
 - **JavaScript:** JavaScript is used for implementing the clock functionality, including updating the time and animating the clock hands.
-
-## LIVE URL
-
-https://bhavdeepsinghnijhawan.github.io/Analog-Clock/
 
 ## CONTRIBUTOR
 
