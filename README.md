@@ -4,8 +4,6 @@
   <img src="https://github.com/BhavdeepSinghNijhawan/Analog-Clock/assets/143419096/91d42884-5c5e-46c1-a38c-7e83568811bf" alt="Image">
 </div>
 
-This is an analog clock application built using HTML, CSS, and JavaScript. It displays the current time in a classic analog clock format.
-
 ## LIVE URL
 
 https://bhavdeepsinghnijhawan.github.io/Analog-Clock/
